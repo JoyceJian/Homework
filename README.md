@@ -1,4 +1,4 @@
-# Unit 2 | The VBA of Wall Street - Stock Market Analysis
+# The VBA of Wall Street - Stock Market Analysis
 
 ### Background
 
