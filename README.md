@@ -1,8 +1,4 @@
-# Unit 2 | Assignment - The VBA of Wall Street
-
-## Stock market analyst
-
-![stock Market](stockmarket.jpg)
+# Unit 2 | The VBA of Wall Street - Stock Market Analysis
 
 ### Background
 
