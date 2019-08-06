@@ -2,9 +2,9 @@
 
 ### Background
 
-In this project, I used VBA scripting to analyze real stock market data in 2014, 2015, 2016, with more than 700,000 data in each worksheet, by doing the following.
+In this project, I used VBA scripting to analyze real stock market data in 2014, 2015, 2016, with more than 700,000 stocks data in each worksheet, and did the following.
 
-* Created a script that will loop through the stock data for each run on every worksheet, (i.e., every year, just by running it once) and return the following:
+* Created a script that looped through the stock data for each run on every worksheet, (i.e., every year, just by running it once) and return the following:
    
     * Total volume each stock had over that year. 
     ( I displayed the ticker symbol to coincide with the total stock volume.)
