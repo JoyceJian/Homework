@@ -18,9 +18,13 @@ In this project, I used VBA scripting to analyze real stock market data in 2014,
 
     * The stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
+### Result
+
 ![result](result.png)
 
+
 ### VBA scripts
+
 ![codes_1](VBA_codes_1.png)
 ![codes_2](VBA_codes_2.png)
 ![codes_3](VBA_codes_3.png)
