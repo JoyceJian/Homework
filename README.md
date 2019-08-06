@@ -2,7 +2,7 @@
 
 ### Background
 
-In this project, I used VBA scripting to analyze real stock market data by doing the following.
+In this project, I used VBA scripting to analyze real stock market data in 2014, 2015, 2016, with more than 700,000 data in each worksheet, by doing the following.
 
 * Created a script that will loop through the stock data for each run on every worksheet, (i.e., every year, just by running it once) and return the following:
    
@@ -19,3 +19,8 @@ In this project, I used VBA scripting to analyze real stock market data by doing
     * The stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 ![result](result.png)
+
+### VBA scripts
+![codes_1](VBA_codes_1.png)
+![codes_2](VBA_codes_2.png)
+![codes_3](VBA_codes_3.png)
